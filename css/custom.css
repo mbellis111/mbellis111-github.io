@@ -1,0 +1,52 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+
+@font-face {
+    font-family: 'Gunfighter Academy';
+    src: url('GunfighterAcademy-Regular.woff2') format('woff2'),
+        url('GunfighterAcademy-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  padding-top: 54px;
+  background-color: #FFFAF0;
+  font-family: 'Libre Baskerville',serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.header-text {
+	text-align: center;
+    margin: 0 auto;
+}
+
+.story-text {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 1.8;
+    padding: 10px 0px 10px 0px;	
+}
+
+.spacer {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
