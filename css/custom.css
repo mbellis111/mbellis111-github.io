@@ -22,6 +22,19 @@ body {
   body {
     padding-top: 3rem;
   }
+  
+  .company-name {
+	  font-size: 10vw;
+  }
+}
+
+.company-name {
+	color: #fff;
+	text-align: center;
+	top: 38%;
+	position: relative;
+	font-size: 5vw;
+	font-family: 'Gunfighter Academy';
 }
 
 .header-text {
