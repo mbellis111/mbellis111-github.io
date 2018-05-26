@@ -63,8 +63,7 @@ body {
 }
 
 .store-list {
-	list-style-type: none;
-	padding-left:0px
+	padding-bottom: 1rem;
 }
 
 .bg-image-full {
