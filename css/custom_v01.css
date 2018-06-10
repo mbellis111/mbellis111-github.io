@@ -24,19 +24,19 @@ body {
 
 @media (max-width: 768px) {
   .company-name {
-	  font-size: 10vw;
+	  font-size: 12vw;
   }
 }
 
 .buy-button {
-	color: #fff;
+	color: #926d33;
     text-align: center;
     top: 54%;
     position: relative;
     margin: 0 auto;
     width: 12%;
     font-size: 1rem;
-    background-color: #926d33;
+    background-color: #fff;
     border-radius: 2px;
     padding: 8px;
     font-weight: 400;
