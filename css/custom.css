@@ -28,6 +28,34 @@ body {
   }
 }
 
+.buy-button {
+	color: #fff;
+    text-align: center;
+    top: 54%;
+    position: relative;
+    margin: 0 auto;
+    width: 12%;
+    font-size: 1rem;
+    background-color: #926d33;
+    border-radius: 2px;
+    padding: 8px;
+    font-weight: 400;
+    display: block;
+}
+
+#button-buy:hover {
+	color: #fff !important;
+	background-color: #6b4f23;
+	text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .buy-button {
+	width: 30%;
+  }
+}
+
+
 .header-text {
 	text-align: center;
     margin: 0 auto;
