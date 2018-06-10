@@ -43,17 +43,22 @@ body {
     display: block;
 }
 
-@media (max-width: 768px) {
-  .buy-button {
-	width: 45%;
-  }
-}
-
-
 #button-buy:hover {
 	color: #fff !important;
 	background-color: #6b4f23;
 	text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .buy-button {
+	width: 45%;
+  }
+  
+  #button-buy:hover {
+	color: #6b4f23 !important;
+	background-color: #fff;
+	text-decoration: none;
+  }
 }
 
 .header-text {
