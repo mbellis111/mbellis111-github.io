@@ -36,16 +36,17 @@ body {
     margin: 0 auto;
     width: 12%;
     font-size: 1rem;
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 2px;
     padding: 8px;
     font-weight: 400;
     display: block;
+	transition: all 0.5s ease 0s;
 }
 
 #button-buy:hover {
-	color: #fff !important;
-	background-color: #6b4f23;
+	color: #ffffff;
+	background-color: #caa875;
 	text-decoration: none;
 }
 
@@ -55,8 +56,8 @@ body {
   }
   
   #button-buy:hover {
-	color: #6b4f23 !important;
-	background-color: #fff;
+	color: #6b4f23;
+	background-color: #ffffff;
 	text-decoration: none;
   }
 }
