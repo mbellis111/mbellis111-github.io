@@ -91,9 +91,10 @@ body {
 }
 
 .store-lead {
-	margin-bottom: 0.5rem;
+	margin-bottom: 1rem;
 	font-weight: 300;
 	font-size: 1.5rem;
+	cursor: pointer;
 }
 
 .center-div-text {
@@ -107,6 +108,7 @@ body {
 
 .store-list {
 	padding-bottom: 1rem;
+	display: none;
 }
 
 .bg-image-full {
@@ -121,4 +123,14 @@ body {
 	padding-left: 10px;
     padding-right: 10px;
     height: 35px;
+}
+
+.toggle-arrow {
+	width: 1.5rem;
+    height: 1.5rem;
+    transition: transform .5s;
+}
+
+.toggle-arrow.active {
+	transform: rotate(-180deg);
 }
