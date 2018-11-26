@@ -13,6 +13,8 @@ def parse_input(script):
     with open(script, 'r') as inf:
         lines = inf.readlines()
 
+    lines = lines[1:]
+
     data = OrderedDict()
     for line in lines:
         values = line.strip().split(",")
