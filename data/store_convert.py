@@ -39,7 +39,7 @@ def parse_input(script):
 
 
 def write_data(data):
-    json_str = json.dumps(data, sort_keys=True)
+    json_str = json.dumps(data, sort_keys=True, indent=4)
     json_str = "var jsonObject = {};".format(json_str)
     with open('stores.json', 'w') as opf:
         opf.write(json_str)
