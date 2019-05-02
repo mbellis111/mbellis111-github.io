@@ -134,7 +134,8 @@ var jsonObject = {
             "Kaman's Wines & Lqrs"
         ],
         "Ellington": [
-            "Five Corners Wine & Spirit"
+            "Five Corners Wine & Spirit",
+            "Mark's Country Wine & Liquor"
         ],
         "Enfield": [
             "Enfield Liquor & Wine",
@@ -316,6 +317,9 @@ var jsonObject = {
             "Barnwood Grill",
             "Market Place"
         ],
+        "Niantic": [
+            "Mermaid Liquors"
+        ],
         "Norfolk": [
             "Mountain Spirit",
             "Wood Creek Bar & Grill"
@@ -325,6 +329,7 @@ var jsonObject = {
             "Townline Wine & Spirits"
         ],
         "North Haven": [
+            "Sav Rite Liquors",
             "Vines Distinctive"
         ],
         "Norwalk": [
@@ -387,6 +392,9 @@ var jsonObject = {
         "Ridgefield": [
             "Rt 7 Wines & Liquor",
             "Village Wine & Spirit"
+        ],
+        "Riverside": [
+            "A1 Cellars"
         ],
         "Rocky Hill": [
             "Cost Cutter Liquors Store"
@@ -523,6 +531,7 @@ var jsonObject = {
         "Trumbull": [
             "Al's Warehouse",
             "Bottom Line Liquors",
+            "Prime 111",
             "Sitting Duck"
         ],
         "Unionville": [
