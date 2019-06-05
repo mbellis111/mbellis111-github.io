@@ -22,6 +22,9 @@ var jsonObject = {
         "Bethany": [
             "Town & Country Liquors"
         ],
+        "Bethel": [
+            "Central Package"
+        ],
         "Bloomfield": [
             "Crystal Wine and Spirits"
         ],
@@ -52,9 +55,11 @@ var jsonObject = {
             "Lancers",
             "Main Wine & Liquor Shoppe",
             "Monaco's Discount Liquor",
+            "Nikita's",
             "Park City Wines & Liquors",
             "Park Package",
             "Pit Stop Package",
+            "Pleasant Moments",
             "Price Break Liquor",
             "Rite Price Liquor",
             "Serenata Restaurant",
@@ -107,7 +112,6 @@ var jsonObject = {
         "Darien": [
             "Giovanni's",
             "Glen Liquor",
-            "Leary's Liquor Cabinet",
             "White Bridge Liquor",
             "Wine Ports of Darien"
         ],
@@ -116,7 +120,13 @@ var jsonObject = {
         ],
         "Derby": [
             "Derby Discount Liquor",
-            "Liquor Factory"
+            "Dew Drop Inn",
+            "Font's Discount Liquor",
+            "Italian Pavillion",
+            "Liquor Factory",
+            "Tipsy Tomato Bar & Pizzeria",
+            "Twisted Vine",
+            "Valley Diner"
         ],
         "East Granby": [
             "Liquor Cabinet"
@@ -168,8 +178,10 @@ var jsonObject = {
             "One Stop Spirit Shop"
         ],
         "Greenwich": [
+            "A1 Cellars",
             "Bruce Parks Liquor",
             "Crew Restaurant",
+            "Greenwich Wine & Spirit",
             "Polpo",
             "Val's Putnam Wines & Liquors"
         ],
@@ -237,6 +249,9 @@ var jsonObject = {
         ],
         "Milford": [
             "Fairway Liquor Mart",
+            "Fratelli's",
+            "Gusto's Restaurant",
+            "Keeper's",
             "Liquor Connection",
             "The Village Wine Shoppe",
             "Total Wine",
@@ -245,8 +260,10 @@ var jsonObject = {
             "Woodmont Package Store"
         ],
         "Monroe": [
+            "Carl Anthony's",
             "Glen Ro Spirit Shoppe",
             "Lakeside Wine & Liquor",
+            "Monroe Social",
             "Warehouse Wine & Spirits"
         ],
         "Montville": [
@@ -257,10 +274,10 @@ var jsonObject = {
         ],
         "Mystic": [
             "Cask N Keg Package Store",
-            "Engine Room",
             "Windjammer Wine & Spirits"
         ],
         "Naugatuck": [
+            "Big Liquor",
             "Cork And Keg",
             "Crosspoint Liquors",
             "D & D Liquors",
@@ -315,7 +332,8 @@ var jsonObject = {
         ],
         "Newtown": [
             "Barnwood Grill",
-            "Market Place"
+            "Market Place",
+            "Rock Ridge Country Club"
         ],
         "Niantic": [
             "Mermaid Liquors"
@@ -393,9 +411,6 @@ var jsonObject = {
             "Rt 7 Wines & Liquor",
             "Village Wine & Spirit"
         ],
-        "Riverside": [
-            "A1 Cellars"
-        ],
         "Rocky Hill": [
             "Cost Cutter Liquors Store"
         ],
@@ -414,6 +429,8 @@ var jsonObject = {
         "Seymour": [
             "Linda's Wines And Liquor",
             "Mountain Road Wine & Liquor",
+            "Pub 67",
+            "Seymour Wine & Spirits",
             "Special Discount Liquor"
         ],
         "Sharon": [
@@ -421,6 +438,8 @@ var jsonObject = {
         ],
         "Shelton": [
             "Bull & Barley",
+            "Caloroso Eatery & Bar",
+            "Chaves Wine and Spirits",
             "Highland Golf Club",
             "JD's Wine & Spirits",
             "Kindred Spirits & Wine",
@@ -428,6 +447,7 @@ var jsonObject = {
             "Linda's Liquors And Wines",
             "Shelton Wine & Spirits",
             "Super Saver Spirits",
+            "White Hills Wine & Spirits",
             "Wine Emporium"
         ],
         "Sherman": [
@@ -473,6 +493,7 @@ var jsonObject = {
             "Four Corners Liquor Shop",
             "Harbor Point Wines & Spirits",
             "Hudson Grille",
+            "Joe's Smokey Ribs",
             "Judy's Bar & Kitchen",
             "Maria's Liquor",
             "Mel's Wine & Spirits",
@@ -487,11 +508,15 @@ var jsonObject = {
             "Villa Spirits Shoppe"
         ],
         "Stratford": [
+            "BAR",
             "Bevmax",
             "J & R's Pub",
+            "Knapp's Landing",
             "Lucky Discount Liquor",
             "Sam's Liquor",
             "Sitting Duck",
+            "Town Line Liquors",
+            "Whiskey Barrel",
             "Windsor Package Store"
         ],
         "Terryville": [
@@ -502,6 +527,7 @@ var jsonObject = {
             "Black Rock Wine & Spirit"
         ],
         "Tolland": [
+            "Tolland Cordial Shoppe",
             "Worldwide Wine Cellars"
         ],
         "Torrington": [
@@ -519,6 +545,7 @@ var jsonObject = {
             "Mulligans",
             "Nicky G's Wine & Spirits",
             "O'Connor's Public House",
+            "Roger's Cafe",
             "Sawyer's Bar & Grill",
             "Southside Cafe",
             "Super Discount Liquor",
@@ -563,6 +590,7 @@ var jsonObject = {
             "J & J Liquors",
             "J & P Liquor Depot",
             "Nutmeg Fine Wines & Spirits",
+            "Palace Theater",
             "Royale Liquor",
             "Sullivan's Discount Liquor",
             "United Liquor",
