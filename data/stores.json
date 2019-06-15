@@ -150,6 +150,7 @@ var jsonObject = {
         "Enfield": [
             "Enfield Liquor & Wine",
             "Galaxy Liquor Store",
+            "Harry's Discount Liquor",
             "The Jug Shop"
         ],
         "Essex": [
@@ -294,6 +295,7 @@ var jsonObject = {
         ],
         "New Haven": [
             "168 York Street Cafe",
+            "Adriana's",
             "Arroyo's Package Store",
             "Cask Republic",
             "Chapel West Wine & Liquor",
@@ -333,7 +335,8 @@ var jsonObject = {
         "Newtown": [
             "Barnwood Grill",
             "Market Place",
-            "Rock Ridge Country Club"
+            "Rock Ridge Country Club",
+            "Taunton Wine and Liquor"
         ],
         "Niantic": [
             "Mermaid Liquors"
@@ -358,6 +361,7 @@ var jsonObject = {
             "Bevmax",
             "Budget Liquor",
             "Budget Liquor Shop",
+            "Main Avenue Liquors",
             "Old Post Spirit Shop",
             "Tablao Wine Bar & Restaurant",
             "Total Wine",
@@ -441,6 +445,7 @@ var jsonObject = {
             "Caloroso Eatery & Bar",
             "Chaves Wine and Spirits",
             "Highland Golf Club",
+            "Hunan Pan",
             "JD's Wine & Spirits",
             "Kindred Spirits & Wine",
             "La Scogliera",
@@ -620,8 +625,13 @@ var jsonObject = {
             "Total Wine"
         ],
         "West Haven": [
+            "Blue Horse",
+            "Duffy's Tavern",
+            "Gin Dee's Caf\u00e9",
             "Happy Harry's Wine & Liquor Warehouse",
+            "Johnny's Grill",
             "Liquor King",
+            "Mike's Apizza",
             "Mut's Package Store",
             "Saw Mill Package Store",
             "The Wine Press",
