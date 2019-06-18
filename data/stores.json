@@ -33,6 +33,7 @@ var jsonObject = {
             "Coastal Wine & Spirit",
             "Cork Shop",
             "Jalapeno Heaven",
+            "Local Kitchen & Beer Bar",
             "Rosso Vino",
             "Wine Barrel"
         ],
@@ -335,6 +336,7 @@ var jsonObject = {
         "Newtown": [
             "Barnwood Grill",
             "Market Place",
+            "Premier Wine & Spirits",
             "Rock Ridge Country Club",
             "Taunton Wine and Liquor"
         ],
@@ -363,6 +365,7 @@ var jsonObject = {
             "Budget Liquor Shop",
             "Main Avenue Liquors",
             "Old Post Spirit Shop",
+            "Saltwater Restaurant & Bar",
             "Tablao Wine Bar & Restaurant",
             "Total Wine",
             "Walsh Liquor",
@@ -386,6 +389,7 @@ var jsonObject = {
         ],
         "Orange": [
             "Discount Wine & Liquor",
+            "Eli's",
             "Eli's Orange",
             "Silverbrook Wine & Liquor"
         ],
@@ -446,6 +450,7 @@ var jsonObject = {
             "Chaves Wine and Spirits",
             "Highland Golf Club",
             "Hunan Pan",
+            "Huntington Package Store",
             "JD's Wine & Spirits",
             "Kindred Spirits & Wine",
             "La Scogliera",
@@ -518,9 +523,12 @@ var jsonObject = {
             "J & R's Pub",
             "Knapp's Landing",
             "Lucky Discount Liquor",
+            "Oar and Oak",
+            "Riverview Bistro Restaurant",
             "Sam's Liquor",
             "Sitting Duck",
             "Town Line Liquors",
+            "Vazzy's",
             "Whiskey Barrel",
             "Windsor Package Store"
         ],
