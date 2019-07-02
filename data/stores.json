@@ -23,7 +23,10 @@ var jsonObject = {
             "Town & Country Liquors"
         ],
         "Bethel": [
-            "Central Package"
+            "Central Package",
+            "Rizzuto's",
+            "Stony Hill Wine & Spirits",
+            "The Meeting House Pub"
         ],
         "Bloomfield": [
             "Crystal Wine and Spirits"
@@ -184,10 +187,12 @@ var jsonObject = {
             "Bruce Parks Liquor",
             "Crew Restaurant",
             "Greenwich Wine & Spirit",
+            "Labella's",
             "Polpo",
             "Val's Putnam Wines & Liquors"
         ],
         "Groton": [
+            "Eastern Point Wine & Liquor",
             "Harrys Wine & Spirits",
             "Star Liquors"
         ],
@@ -255,6 +260,7 @@ var jsonObject = {
             "Gusto's Restaurant",
             "Keeper's",
             "Liquor Connection",
+            "Seaside Wine & Spirits",
             "The Village Wine Shoppe",
             "Total Wine",
             "Wine & Spirits Company",
@@ -266,6 +272,7 @@ var jsonObject = {
             "Glen Ro Spirit Shoppe",
             "Lakeside Wine & Liquor",
             "Monroe Social",
+            "Roberto's Restaurant",
             "Warehouse Wine & Spirits"
         ],
         "Montville": [
@@ -287,7 +294,9 @@ var jsonObject = {
             "Pete's Package Store"
         ],
         "New Canaan": [
-            "A1 Cellars"
+            "A1 Cellars",
+            "Franco's Liquor",
+            "Pesca"
         ],
         "New Hartford": [
             "Bridge St Libations & Temptations",
@@ -390,7 +399,7 @@ var jsonObject = {
         "Orange": [
             "Discount Wine & Liquor",
             "Eli's",
-            "Eli's Orange",
+            "Racebrook Country Club",
             "Silverbrook Wine & Liquor"
         ],
         "Oxford": [
@@ -413,10 +422,18 @@ var jsonObject = {
             "Sunny Discount Liquors"
         ],
         "Redding": [
-            "Georgetown Package Store"
+            "Black Cat Grille",
+            "Georgetown Package Store",
+            "Redding Wine & Spirits",
+            "Wire Mill BBQ"
         ],
         "Ridgefield": [
+            "Ancient Mariner",
+            "Posa",
+            "Ridgefield Liquor",
             "Rt 7 Wines & Liquor",
+            "Southwest Caf\u00e9",
+            "Venice Restaurant",
             "Village Wine & Spirit"
         ],
         "Rocky Hill": [
@@ -524,6 +541,7 @@ var jsonObject = {
             "Knapp's Landing",
             "Lucky Discount Liquor",
             "Oar and Oak",
+            "Ole Dog Tavern",
             "Riverview Bistro Restaurant",
             "Sam's Liquor",
             "Sitting Duck",
@@ -531,6 +549,9 @@ var jsonObject = {
             "Vazzy's",
             "Whiskey Barrel",
             "Windsor Package Store"
+        ],
+        "Suffield": [
+            "Suffield Cordial Shoppe"
         ],
         "Terryville": [
             "Town & Country Discount Liquor"
@@ -645,11 +666,16 @@ var jsonObject = {
             "The Wine Press",
             "Warehouse Wines & Spirits"
         ],
+        "Weston": [
+            "Peter's Spirit Shop"
+        ],
         "Westport": [
             "Black Duck Cafe",
-            "Greens Farms Spirit Shop"
+            "Greens Farms Spirit Shop",
+            "VFW"
         ],
         "Wilton": [
+            "Little Pub",
             "Wilton Wine Shoppe"
         ],
         "Winsted": [
