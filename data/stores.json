@@ -101,7 +101,9 @@ var jsonObject = {
             "348 Oyster Bar",
             "Al's Warehouse Liquor Store",
             "Golf Lounge Caf\u00e9",
-            "Stratfield Wine & Liquor"
+            "Plan B Burger Bar",
+            "Stratfield Wine & Liquor",
+            "Wine Line Fine Wines"
         ],
         "Farmington": [
             "Maximum Beverage",
@@ -116,6 +118,8 @@ var jsonObject = {
             "One Stop Spirit Shop"
         ],
         "Greenwich": [
+            "A1 Cellars",
+            "Madison Wine & Liquors",
             "Val's Putnam Wines & Liquors"
         ],
         "Groton": [
@@ -192,6 +196,7 @@ var jsonObject = {
         "New Canaan": [
             "Cherry Street East",
             "Franco's Liquor",
+            "Gates Restaurant",
             "Pesca"
         ],
         "New Hartford": [
@@ -213,6 +218,7 @@ var jsonObject = {
             "Westville Wine & Liquor"
         ],
         "New London": [
+            "Hodges Square Wine & Spirit",
             "Ocean Discount Wine And Spirit",
             "Universal Package",
             "Yellow Front Package Store"
@@ -249,6 +255,7 @@ var jsonObject = {
             "BJ Ryan's",
             "Banner Wine & Liquor",
             "Bevmax",
+            "Club House Grill",
             "Main Avenue Liquors",
             "Saltwater Restaurant & Bar",
             "Total Wine",
