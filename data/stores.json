@@ -32,6 +32,7 @@ var jsonObject = {
             "Adega Velha Restaurant",
             "Azul Bar & Restaurant",
             "Brookside Discount Wine",
+            "Golden Star Caf\u00e9",
             "Mr. Crab",
             "Nikita's",
             "Park City Wines & Liquors",
@@ -44,6 +45,9 @@ var jsonObject = {
             "Happy Harry's",
             "Maple End Package Store",
             "Nick's Package Store"
+        ],
+        "Brooklyn": [
+            "Brooklyn Spirits"
         ],
         "Canaan": [
             "Canaan Country Club",
@@ -120,6 +124,7 @@ var jsonObject = {
         "Greenwich": [
             "A1 Cellars",
             "Madison Wine & Liquors",
+            "Sam's Wine & Liquors",
             "Val's Putnam Wines & Liquors"
         ],
         "Groton": [
@@ -155,6 +160,9 @@ var jsonObject = {
         ],
         "Manchester": [
             "Total Wine"
+        ],
+        "Mansfield": [
+            "EBM Discount Liquor Shop"
         ],
         "Marlborough": [
             "Country Roads Wine & Spirits"
@@ -197,7 +205,8 @@ var jsonObject = {
             "Cherry Street East",
             "Franco's Liquor",
             "Gates Restaurant",
-            "Pesca"
+            "Pesca",
+            "Spiga"
         ],
         "New Hartford": [
             "Bridge St Libations & Temptations",
@@ -362,6 +371,7 @@ var jsonObject = {
             "Beverage Barn",
             "Bevmax",
             "Bevmax Ridgeway",
+            "Crazy Grapes",
             "Fairway Stamford Wine & Spirit",
             "Harbor Point Wines & Spirits",
             "Hudson Grille",
@@ -396,8 +406,7 @@ var jsonObject = {
             "Black Rock Wine & Spirit"
         ],
         "Tolland": [
-            "Tolland Cordial Shoppe",
-            "Worldwide Wine Cellars"
+            "Tolland Cordial Shoppe"
         ],
         "Torrington": [
             "Bachi's Restaurant",
@@ -430,6 +439,7 @@ var jsonObject = {
             "Prime 111"
         ],
         "Unionville": [
+            "Bottle Shop of Unionville",
             "Liquor Square",
             "Tap Rock Beer Bar & Refuge"
         ],
