@@ -3,6 +3,9 @@ var jsonObject = {
         "Ansonia": [
             "Quick Stop Liquors"
         ],
+        "Ashford": [
+            "Ashford Spirit Shoppe"
+        ],
         "Avon": [
             "Avon Wine & Spirits",
             "Bottle Stop"
@@ -95,6 +98,7 @@ var jsonObject = {
             "Mark's Country Wine & Liquor"
         ],
         "Enfield": [
+            "College Wine & Liquor",
             "Harry's Discount Liquor",
             "The Jug Shop"
         ],
@@ -163,6 +167,9 @@ var jsonObject = {
         ],
         "Mansfield": [
             "EBM Discount Liquor Shop"
+        ],
+        "Mansfield Center": [
+            "Bombadils Spirit Shop"
         ],
         "Marlborough": [
             "Country Roads Wine & Spirits"
@@ -255,8 +262,14 @@ var jsonObject = {
             "Mountain Spirit",
             "Wood Creek Bar & Grill"
         ],
+        "North Franklin": [
+            "Franklin Wine & Spirits"
+        ],
         "North Haven": [
             "Sav Rite Liquors"
+        ],
+        "North Windham": [
+            "Brandy & Brew Package Store"
         ],
         "Norwalk": [
             "Al's Warehouse #1",
@@ -307,6 +320,7 @@ var jsonObject = {
         ],
         "Ridgefield": [
             "Ancient Mariner",
+            "Barn Door",
             "Bartolo",
             "Posa",
             "Red Rooster Pub",
@@ -346,6 +360,7 @@ var jsonObject = {
             "Ninety Nine Bottles",
             "Shelton Wine & Spirits",
             "Super Saver Spirits",
+            "Vincent's Italian Restaurant",
             "White Hills Wine & Spirits",
             "Wine Emporium"
         ],
@@ -385,6 +400,9 @@ var jsonObject = {
         ],
         "Storrs": [
             "Villa Spirits Shoppe"
+        ],
+        "Storrs Mansfiled": [
+            "Universal Package"
         ],
         "Stratford": [
             "BAR",
