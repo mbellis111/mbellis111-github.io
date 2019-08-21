@@ -7,6 +7,7 @@ var jsonObject = {
             "Ashford Spirit Shoppe"
         ],
         "Avon": [
+            "Avon Super Cellar",
             "Avon Wine & Spirits",
             "Bottle Stop"
         ],
@@ -35,6 +36,7 @@ var jsonObject = {
             "Adega Velha Restaurant",
             "Azul Bar & Restaurant",
             "Brookside Discount Wine",
+            "Fayerweather Yacht Club",
             "Golden Star Caf\u00e9",
             "Mr. Crab",
             "Nikita's",
@@ -50,6 +52,7 @@ var jsonObject = {
             "Nick's Package Store"
         ],
         "Brooklyn": [
+            "B's Discount Wine & Spirits",
             "Brooklyn Spirits"
         ],
         "Canaan": [
@@ -57,12 +60,18 @@ var jsonObject = {
             "Cordial Shop",
             "Stateline Wine & Spirits"
         ],
+        "Canterbury": [
+            "D & G Pizza Pub"
+        ],
         "Cheshire": [
             "Premier Wine & Spirits"
         ],
         "Colchester": [
             "Cellar On 85 Fine Wine",
             "Center Wine & Spirits Shoppe"
+        ],
+        "Coventry": [
+            "Meadowbrook Wine & Spirits"
         ],
         "Cromwell": [
             "Willowbrook Spirit Shoppe"
@@ -382,6 +391,9 @@ var jsonObject = {
             "West Side Spirits",
             "Worldwide Wine & Spirits"
         ],
+        "Stafford Springs": [
+            "Ruby's Fine Wine & Liquors"
+        ],
         "Stamford": [
             "Beverage Barn",
             "Bevmax",
@@ -508,6 +520,9 @@ var jsonObject = {
             "Happy Harry's Wine & Liquor Warehouse",
             "Johnny's Grill",
             "Mike's Apizza"
+        ],
+        "West Redding": [
+            "Redding Country Club"
         ],
         "Weston": [
             "Peter's Spirit Shop"
