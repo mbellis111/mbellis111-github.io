@@ -76,10 +76,16 @@ var jsonObject = {
         "Cromwell": [
             "Willowbrook Spirit Shoppe"
         ],
+        "Danielson": [
+            "Danielson Liquors"
+        ],
         "Darien": [
             "Darien Discount Wines & Spirit",
             "Giovanni's",
             "Glen Liquor"
+        ],
+        "Dayville": [
+            "B's Wine & Spirits"
         ],
         "Deep River": [
             "Shore Discount Liquor"
@@ -101,6 +107,9 @@ var jsonObject = {
         ],
         "East Lyme": [
             "Max's Package Store"
+        ],
+        "East Windsor": [
+            "Kaman's Wines & Liquors"
         ],
         "Ellington": [
             "Five Corners Wine & Spirit",
@@ -141,6 +150,7 @@ var jsonObject = {
             "Val's Putnam Wines & Liquors"
         ],
         "Groton": [
+            "Ackley's Package Store",
             "Eastern Point Wine & Liquor",
             "Harrys Wine & Spirits",
             "Star Liquors"
@@ -157,7 +167,8 @@ var jsonObject = {
             "The Liquor Lad"
         ],
         "Hebron": [
-            "Plaza Package Store"
+            "Plaza Package Store",
+            "The Package Store"
         ],
         "Lakeville": [
             "Lakeville Wine & Spirit"
@@ -216,6 +227,9 @@ var jsonObject = {
             "Big Liquor",
             "Cork And Keg",
             "Mountainview Plaza Wines"
+        ],
+        "New Britain": [
+            "Liquor Outlet"
         ],
         "New Canaan": [
             "Cherry Street East",
@@ -306,6 +320,7 @@ var jsonObject = {
         ],
         "Orange": [
             "Eli's",
+            "On The Border Mexican Grill",
             "Racebrook Country Club"
         ],
         "Oxford": [
@@ -338,6 +353,9 @@ var jsonObject = {
             "Southwest Caf\u00e9",
             "Venice Restaurant",
             "Village Wine & Spirit"
+        ],
+        "Riverside": [
+            "Greenwich Wine & Spirit"
         ],
         "Rocky Hill": [
             "Cost Cutter Liquors Store"
@@ -410,6 +428,9 @@ var jsonObject = {
             "Wagon Wheel Liquor",
             "Westcott Cove W & S"
         ],
+        "Statford": [
+            "Lordship Wine & Liquor"
+        ],
         "Storrs": [
             "Villa Spirits Shoppe"
         ],
@@ -436,7 +457,8 @@ var jsonObject = {
             "Black Rock Wine & Spirit"
         ],
         "Tolland": [
-            "Tolland Cordial Shoppe"
+            "Tolland Cordial Shoppe",
+            "Village Spirit Shop"
         ],
         "Torrington": [
             "Bachi's Restaurant",
@@ -474,11 +496,14 @@ var jsonObject = {
             "Tap Rock Beer Bar & Refuge"
         ],
         "Vernon": [
-            "Lafayette Wine & Liquors"
+            "Lafayette Wine & Liquors",
+            "Riley's Liquor"
         ],
         "Wallingford": [
             "A & D Package Store",
             "Discount Wine & Spirit",
+            "J Christian's",
+            "Tap & Vine",
             "Wallingford Wine & Spirit",
             "Wally Wine & Spirits",
             "Wine Merchants"
