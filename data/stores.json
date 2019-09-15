@@ -38,6 +38,7 @@ var jsonObject = {
             "Brookside Discount Wine",
             "Fayerweather Yacht Club",
             "Golden Star Caf\u00e9",
+            "Monaco's",
             "Mr. Crab",
             "Nikita's",
             "Park City Wines & Liquors",
@@ -428,9 +429,6 @@ var jsonObject = {
             "Wagon Wheel Liquor",
             "Westcott Cove W & S"
         ],
-        "Statford": [
-            "Lordship Wine & Liquor"
-        ],
         "Storrs": [
             "Villa Spirits Shoppe"
         ],
@@ -440,6 +438,8 @@ var jsonObject = {
         "Stratford": [
             "BAR",
             "Knapp's Landing",
+            "Last Call Wine & Spirits",
+            "Lordship Wine & Liquor",
             "Oar and Oak",
             "Ole Dog Tavern",
             "Riverview Bistro Restaurant",
@@ -488,7 +488,8 @@ var jsonObject = {
         "Trumbull": [
             "Al's Warehouse",
             "Bottom Line Liquors",
-            "Prime 111"
+            "Prime 111",
+            "Trumbull Liquor Center"
         ],
         "Unionville": [
             "Bottle Shop of Unionville",
@@ -533,9 +534,12 @@ var jsonObject = {
         ],
         "West Hartford": [
             "Crazy Bruce's Liquors",
+            "Max Burger",
+            "Max Oyster Bar",
             "Maximum Beverage",
             "Oakwood Package Store",
             "Plan B Burger Bar",
+            "Savoy",
             "Total Wine"
         ],
         "West Haven": [
