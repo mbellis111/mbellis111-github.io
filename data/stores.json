@@ -9,7 +9,8 @@ var jsonObject = {
         "Avon": [
             "Avon Super Cellar",
             "Avon Wine & Spirits",
-            "Bottle Stop"
+            "Bottle Stop",
+            "The North House"
         ],
         "Baltic": [
             "Baltic Wine & Spirit"
@@ -119,7 +120,8 @@ var jsonObject = {
         "Enfield": [
             "College Wine & Liquor",
             "Harry's Discount Liquor",
-            "The Jug Shop"
+            "The Jug Shop",
+            "Yardehouse Tavern"
         ],
         "Essex": [
             "Scotch Plains Tavern"
@@ -154,7 +156,8 @@ var jsonObject = {
             "Ackley's Package Store",
             "Eastern Point Wine & Liquor",
             "Harrys Wine & Spirits",
-            "Star Liquors"
+            "Star Liquors",
+            "Universal Package"
         ],
         "Haddam": [
             "Tony's Package Store"
@@ -530,9 +533,11 @@ var jsonObject = {
             "Liquor Super Store",
             "Nejaime's Fine Wine & Spirits",
             "Rock Garden Cafe",
+            "Straits Wine & Liquor",
             "Straits Wine & Liquor"
         ],
         "West Hartford": [
+            "Blue Plate Kitchen",
             "Crazy Bruce's Liquors",
             "Max Burger",
             "Max Oyster Bar",
@@ -540,6 +545,7 @@ var jsonObject = {
             "Oakwood Package Store",
             "Plan B Burger Bar",
             "Savoy",
+            "South Main Wine & Spirits",
             "Total Wine"
         ],
         "West Haven": [
