@@ -30,8 +30,10 @@ var jsonObject = {
         "Branford": [
             "Branford Wine & Spirits",
             "Coastal Wine & Spirit",
+            "Gabel's Wine Shop",
             "Jalapeno Heaven",
-            "Local Kitchen & Beer Bar"
+            "Local Kitchen & Beer Bar",
+            "Nellie Green's Restaurant"
         ],
         "Bridgeport": [
             "Adega Velha Restaurant",
@@ -159,6 +161,9 @@ var jsonObject = {
             "Star Liquors",
             "Universal Package"
         ],
+        "Guilford": [
+            "Fitzspirits"
+        ],
         "Haddam": [
             "Tony's Package Store"
         ],
@@ -166,6 +171,9 @@ var jsonObject = {
             "Cork & Barrel",
             "Mount Carmel Wine",
             "Wine Merchants"
+        ],
+        "Hartford": [
+            "Capital Spirits"
         ],
         "Harwinton": [
             "The Liquor Lad"
@@ -262,6 +270,7 @@ var jsonObject = {
         ],
         "New London": [
             "Hodges Square Wine & Spirit",
+            "Montauk Ave Package Store",
             "Ocean Discount Wine And Spirit",
             "Universal Package",
             "Yellow Front Package Store"
@@ -288,6 +297,9 @@ var jsonObject = {
         "Norfolk": [
             "Mountain Spirit",
             "Wood Creek Bar & Grill"
+        ],
+        "North Branford": [
+            "Bar 80"
         ],
         "North Franklin": [
             "Franklin Wine & Spirits"
@@ -350,6 +362,7 @@ var jsonObject = {
             "Ancient Mariner",
             "Barn Door",
             "Bartolo",
+            "Hunan Noodle Bar",
             "Posa",
             "Red Rooster Pub",
             "Ridgefield Liquor",
@@ -433,10 +446,8 @@ var jsonObject = {
             "Westcott Cove W & S"
         ],
         "Storrs": [
+            "Universal Package",
             "Villa Spirits Shoppe"
-        ],
-        "Storrs Mansfiled": [
-            "Universal Package"
         ],
         "Stratford": [
             "BAR",
@@ -493,6 +504,9 @@ var jsonObject = {
             "Bottom Line Liquors",
             "Prime 111",
             "Trumbull Liquor Center"
+        ],
+        "Uncasville": [
+            "Labella Wine & Spirit"
         ],
         "Unionville": [
             "Bottle Shop of Unionville",
