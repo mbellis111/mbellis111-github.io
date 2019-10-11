@@ -70,6 +70,9 @@ var jsonObject = {
         "Cheshire": [
             "Premier Wine & Spirits"
         ],
+        "Clinton": [
+            "Glenwood Wine and Spirits"
+        ],
         "Colchester": [
             "Cellar On 85 Fine Wine",
             "Center Wine & Spirits Shoppe"
@@ -394,6 +397,7 @@ var jsonObject = {
             "Bull & Barley",
             "Caloroso Eatery & Bar",
             "Chaves Wine and Spirits",
+            "Glen Ro",
             "Highland Golf Club",
             "Hunan Pan",
             "Huntington Package Store",
@@ -551,7 +555,6 @@ var jsonObject = {
             "Straits Wine & Liquor"
         ],
         "West Hartford": [
-            "Blue Plate Kitchen",
             "Crazy Bruce's Liquors",
             "Max Burger",
             "Max Oyster Bar",
