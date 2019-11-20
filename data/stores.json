@@ -276,6 +276,7 @@ var jsonObject = {
             "Rawa",
             "Roia Restaurant",
             "Shell And Bones",
+            "The Graduate Club",
             "Toad's Place",
             "West Rock Wine & Liquor",
             "Westville Wine & Liquor"
@@ -349,6 +350,7 @@ var jsonObject = {
         ],
         "Orange": [
             "Eli's",
+            "Golf Lounge 18",
             "On The Border Mexican Grill",
             "Racebrook Country Club"
         ],
@@ -612,7 +614,8 @@ var jsonObject = {
             "Viva Zapata"
         ],
         "Willimantic": [
-            "Corner Package Store"
+            "Corner Package Store",
+            "Windham Wine & Spirits"
         ],
         "Wilton": [
             "Little Pub",
