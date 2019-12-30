@@ -20,8 +20,6 @@ var jsonObject = {
         ],
         "Bethel": [
             "Central Package",
-            "Rizzuto's",
-            "Stony Hill Wine & Spirits",
             "The Meeting House Pub"
         ],
         "Bloomfield": [
@@ -68,6 +66,7 @@ var jsonObject = {
             "Stateline Wine & Spirits"
         ],
         "Canterbury": [
+            "Canterbury Liquors",
             "D & G Pizza Pub"
         ],
         "Cheshire": [
@@ -130,6 +129,7 @@ var jsonObject = {
             "College Wine & Liquor",
             "Elm Street Liquors",
             "Enfield Discount Wines",
+            "Galaxy Liquor Store",
             "Harry's Discount Liquor",
             "The Jug Shop",
             "Yardehouse Tavern"
@@ -275,6 +275,7 @@ var jsonObject = {
             "Karaoke Heroes",
             "Rawa",
             "Roia Restaurant",
+            "September In Bankok",
             "Shell And Bones",
             "The Graduate Club",
             "Toad's Place",
@@ -332,6 +333,7 @@ var jsonObject = {
             "Bevmax",
             "Club House Grill",
             "Main Avenue Liquors",
+            "O'Neill's",
             "Saltwater Restaurant & Bar",
             "Total Wine",
             "VZ Sports Bar & Restaurant",
@@ -352,7 +354,8 @@ var jsonObject = {
             "Eli's",
             "Golf Lounge 18",
             "On The Border Mexican Grill",
-            "Racebrook Country Club"
+            "Racebrook Country Club",
+            "Wine Merchants"
         ],
         "Oxford": [
             "Wine Market"
@@ -395,6 +398,9 @@ var jsonObject = {
         "Roxbury": [
             "Wines & Spirits At Roxbury St"
         ],
+        "Salem": [
+            "Garnder Lake Liquors"
+        ],
         "Scotland": [
             "Scotland Spirits"
         ],
@@ -431,8 +437,8 @@ var jsonObject = {
             "Artis",
             "The Wine House"
         ],
-        "South Norwalk": [
-            "O'Neill's"
+        "South Glastonbury": [
+            "Southside Wine & Spirit"
         ],
         "South Windham": [
             "Town & Country Wines & Liquor"
@@ -447,6 +453,7 @@ var jsonObject = {
             "Worldwide Wine & Spirits"
         ],
         "Stafford Springs": [
+            "Co-op Package Store",
             "Ruby's Fine Wine & Liquors"
         ],
         "Stamford": [
@@ -495,6 +502,7 @@ var jsonObject = {
             "Black Rock Wine & Spirit"
         ],
         "Tolland": [
+            "Liquor Wine Discount",
             "Tolland Cordial Shoppe",
             "Village Spirit Shop"
         ],
@@ -595,7 +603,8 @@ var jsonObject = {
             "Gin Dee's Caf\u00e9",
             "Happy Harry's Wine & Liquor Warehouse",
             "Johnny's Grill",
-            "Mike's Apizza"
+            "Mike's Apizza",
+            "Warehouse Wines & Spirits"
         ],
         "West Redding": [
             "Redding Country Club"
