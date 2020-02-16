@@ -54,8 +54,10 @@ var jsonObject = {
             "Glenwood Wine & Spirits Outlet"
         ],
         "Colchester": [
+            "Big Gary's",
             "Cellar On 85 Fine Wine",
-            "Center Wine & Spirits Shoppe"
+            "Center Wine & Spirits Shoppe",
+            "Two Brothers Wine & Spirit"
         ],
         "Coventry": [
             "Meadowbrook Wine & Spirits"
@@ -110,7 +112,6 @@ var jsonObject = {
         "Fairfield": [
             "348 Oyster Bar",
             "Golf Lounge 18",
-            "Golf Lounge Caf\u00e9",
             "Plan B Burger Bar",
             "Stratfield Wine & Liquor",
             "Wine Line Fine Wines & Spirits"
@@ -142,6 +143,7 @@ var jsonObject = {
         ],
         "Hamden": [
             "Cork & Barrel",
+            "Discount Wine & Spirit Shoppe",
             "Mount Carmel Wine",
             "Wine Merchants"
         ],
@@ -154,6 +156,9 @@ var jsonObject = {
         ],
         "Ledyard": [
             "Alumni Wine & Spirits"
+        ],
+        "Lisbon": [
+            "Better Val-U"
         ],
         "Litchfield": [
             "Litch Hills Wine Market"
@@ -183,6 +188,9 @@ var jsonObject = {
         "Montville": [
             "Big Gary's"
         ],
+        "Mystic": [
+            "Cask N Keg"
+        ],
         "New Britain": [
             "Liquor Outlet",
             "The Frosty Mug"
@@ -196,6 +204,7 @@ var jsonObject = {
             "Michel Angelo's"
         ],
         "New Haven": [
+            "Chapel West Wine & Liquor",
             "Discount Liquor Of Annex",
             "Grand Vin",
             "Q Club (Graduate Club)",
@@ -258,6 +267,7 @@ var jsonObject = {
             "Lu Mac Package Store"
         ],
         "Putnam": [
+            "Big Gary's",
             "Sunny Discount Liquors"
         ],
         "Redding": [
@@ -348,6 +358,7 @@ var jsonObject = {
         "Stratford": [
             "Last Call Wines",
             "Lordship Wine & Liquor",
+            "Town Line Liquors",
             "Town Line Liquors"
         ],
         "Suffield": [
