@@ -11,6 +11,9 @@ var jsonObject = {
             "Bottle Stop",
             "North House"
         ],
+        "Beacon Falls": [
+            "Beacon Beer & Beverage"
+        ],
         "Bethel": [
             "Central Package"
         ],
@@ -19,10 +22,12 @@ var jsonObject = {
         ],
         "Branford": [
             "Branford Wine & Spirits",
+            "Coastal Wine & Spirit",
             "Gabel's Wine Shop",
             "Nellie Green's Restaurant"
         ],
         "Bridgeport": [
+            "Adega Velha Restaurant",
             "Fayerweather Yacht Club",
             "Golden Star Caf\u00e9",
             "Monaco's Discount Liquor",
@@ -46,6 +51,9 @@ var jsonObject = {
         "Canterbury": [
             "Canterbury Liquors",
             "D & G Pizza Pub"
+        ],
+        "Centerbrook": [
+            "Centerbrook Package Store"
         ],
         "Cheshire": [
             "Premier Wine & Spirits"
@@ -155,7 +163,8 @@ var jsonObject = {
             "Lakeville Wine & Spirit"
         ],
         "Ledyard": [
-            "Alumni Wine & Spirits"
+            "Alumni Wine & Spirits",
+            "Bears Place Package Store"
         ],
         "Lisbon": [
             "Better Val-U"
@@ -175,6 +184,9 @@ var jsonObject = {
         "Marlborough": [
             "Country Roads Wine & Spirits"
         ],
+        "Meriden": [
+            "Town & Country Spirits"
+        ],
         "Milford": [
             "Fairway Liquor Mart",
             "Keeper's",
@@ -189,7 +201,8 @@ var jsonObject = {
             "Big Gary's"
         ],
         "Mystic": [
-            "Cask N Keg"
+            "Cask N Keg",
+            "Engine Room"
         ],
         "New Britain": [
             "Liquor Outlet",
@@ -207,14 +220,17 @@ var jsonObject = {
             "Chapel West Wine & Liquor",
             "Discount Liquor Of Annex",
             "Grand Vin",
+            "Pacifico",
             "Q Club (Graduate Club)",
             "Rawa",
-            "September In Bankok"
+            "September In Bankok",
+            "Zacharys Package Store"
         ],
         "New London": [
             "Hodges Square Wine & Spirit",
             "Liquor Closet",
             "Montauk Ave Package Store",
+            "Universal Package",
             "Yellow Front Package Store"
         ],
         "New Milford": [
@@ -263,6 +279,9 @@ var jsonObject = {
         "Plainfield": [
             "Central Village Discount"
         ],
+        "Pomfret Center": [
+            "Pomfret Wine And Spirits"
+        ],
         "Preston": [
             "Lu Mac Package Store"
         ],
@@ -287,6 +306,9 @@ var jsonObject = {
         "Riverside": [
             "A1 Cellars",
             "Greenwich Wine & Spirit"
+        ],
+        "Rocky Hill": [
+            "Cost Cutter Liquors Store"
         ],
         "Salem": [
             "Garnder Lake Liquors"
@@ -325,16 +347,24 @@ var jsonObject = {
             "Banner Wines & Liquor",
             "O'Neill's Pub"
         ],
+        "South Windsor": [
+            "Top Shelf Wine & Liquors"
+        ],
         "Southbury": [
             "Warehouse Wine & Liquor"
         ],
         "Southington": [
+            "Ideal Tavern",
+            "Queen Street Liquor",
+            "Southington Country Club",
             "Southington Wine & Spirits",
+            "The Groggy Frogg",
             "Worldwide Wine & Spirits"
         ],
         "Stafford Springs": [
             "Co-Op Package Store",
-            "Ruby's Fine Wine & Liquors"
+            "Ruby's Fine Wine & Liquors",
+            "Stafford Spirits"
         ],
         "Stamford": [
             "Atlantic Wine & Liquor",
@@ -363,6 +393,12 @@ var jsonObject = {
         ],
         "Suffield": [
             "Suffield Cordial Shoppe"
+        ],
+        "Taftville": [
+            "H & B Package Store"
+        ],
+        "Tariffville": [
+            "T-Ville Wine & Spirits"
         ],
         "Tolland": [
             "Liquor Wine Discount",
