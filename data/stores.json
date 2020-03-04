@@ -27,6 +27,7 @@ var jsonObject = {
             "Nellie Green's Restaurant"
         ],
         "Bridgeport": [
+            "Absorbs Liquor",
             "Adega Velha Restaurant",
             "Fayerweather Yacht Club",
             "Golden Star Caf\u00e9",
@@ -151,6 +152,7 @@ var jsonObject = {
         ],
         "Hamden": [
             "Cork & Barrel",
+            "DJ's Liquors",
             "Discount Wine & Spirit Shoppe",
             "Mount Carmel Wine",
             "Wine Merchants"
@@ -218,12 +220,18 @@ var jsonObject = {
         ],
         "New Haven": [
             "Chapel West Wine & Liquor",
+            "Contois",
             "Discount Liquor Of Annex",
             "Grand Vin",
+            "Jack's Bar & Steakhouse",
+            "Lenny & Joes Fishtail",
             "Pacifico",
             "Q Club (Graduate Club)",
             "Rawa",
+            "Regal Beagle",
             "September In Bankok",
+            "Temple Wine & Liquor",
+            "The Wine Thief",
             "Zacharys Package Store"
         ],
         "New London": [
@@ -237,6 +245,9 @@ var jsonObject = {
             "Iron Rail",
             "Nejaimes Wine & Spirits"
         ],
+        "Newington": [
+            "Conn Beverage Mart"
+        ],
         "Newtown": [
             "Premier W & S Warehouse",
             "Taunton Wine & Liquor"
@@ -245,6 +256,7 @@ var jsonObject = {
             "Mountain Spirit"
         ],
         "North Branford": [
+            "Absolute Liquors",
             "Bar 80"
         ],
         "North Franklin": [
@@ -356,6 +368,7 @@ var jsonObject = {
         "Southington": [
             "Ideal Tavern",
             "Queen Street Liquor",
+            "Sassy Liquors",
             "Southington Country Club",
             "Southington Wine & Spirits",
             "The Groggy Frogg",
@@ -402,6 +415,7 @@ var jsonObject = {
         ],
         "Tolland": [
             "Liquor Wine Discount",
+            "Tolland Discount Liquor",
             "Village Spirit Shop"
         ],
         "Torrington": [
