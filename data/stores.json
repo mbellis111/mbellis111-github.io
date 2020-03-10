@@ -37,7 +37,9 @@ var jsonObject = {
             "Pleasant Moments"
         ],
         "Bristol": [
+            "Bleachers",
             "Bristol Liquor Outlet",
+            "Bristol Wine & Spirits",
             "Crazy Bruce's",
             "Double Tree Hilton",
             "Maple End Package Store",
@@ -230,6 +232,7 @@ var jsonObject = {
             "Rawa",
             "Regal Beagle",
             "September In Bankok",
+            "Sports Haven Restaurant",
             "Temple Wine & Liquor",
             "The Wine Thief",
             "Zacharys Package Store"
@@ -249,6 +252,7 @@ var jsonObject = {
             "Conn Beverage Mart"
         ],
         "Newtown": [
+            "Fairgrounds W & S",
             "Premier W & S Warehouse",
             "Taunton Wine & Liquor"
         ],
@@ -289,7 +293,8 @@ var jsonObject = {
             "Wine Market"
         ],
         "Plainfield": [
-            "Central Village Discount"
+            "Central Village Discount",
+            "Pit Stop Spirit Shop"
         ],
         "Pomfret Center": [
             "Pomfret Wine And Spirits"
@@ -303,6 +308,7 @@ var jsonObject = {
         ],
         "Redding": [
             "Black Cat Grille",
+            "Georgetown Package Store",
             "Redding Wine & Spirits",
             "Wire Mill Bbq"
         ],
@@ -340,6 +346,7 @@ var jsonObject = {
             "Linda's Liquors & Wines",
             "Ninety 9 Bottles",
             "Shelton Wine & Spirits",
+            "Stormy's",
             "Super Saver Spirit",
             "The Wine Emporium",
             "Vincent's Italian Restaurant",
@@ -389,6 +396,7 @@ var jsonObject = {
             "Harbor Point Wines & Spirits",
             "Hudson Social",
             "Ridgeway Beverages (Bevmax)",
+            "Stamford Wine & Liquor",
             "Star Wine & Spirits",
             "Wagon Wheel"
         ],
@@ -437,7 +445,8 @@ var jsonObject = {
             "Labella Wine & Spirit"
         ],
         "Unionville": [
-            "Bottle Shop Of Unionville"
+            "Bottle Shop Of Unionville",
+            "Liquor Square"
         ],
         "Vernon": [
             "Riley's Liquor"
