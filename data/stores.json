@@ -92,6 +92,7 @@ var jsonObject = {
             "Shore Discount Liquor"
         ],
         "Derby": [
+            "Discount Liquor",
             "Italian Pavillion",
             "Liquor Factory"
         ],
@@ -462,6 +463,7 @@ var jsonObject = {
         ],
         "Waterbury": [
             "Empire Wine & Liquor",
+            "Nutmeg Fine Wines & Spirits",
             "Palace Theater"
         ],
         "Waterford": [
@@ -505,6 +507,9 @@ var jsonObject = {
         ],
         "Wilton": [
             "Zio Italian Kitchen"
+        ],
+        "Windsor": [
+            "Wine Loft Too"
         ],
         "Windsor Locks": [
             "Turnpike Package Store"
