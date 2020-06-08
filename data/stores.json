@@ -8,6 +8,7 @@ var jsonObject = {
         ],
         "Avon": [
             "Avon Super Cellar",
+            "Avon Wine & Spirits",
             "Bottle Stop",
             "North House"
         ],
@@ -30,11 +31,13 @@ var jsonObject = {
             "Absorbs Liquor",
             "Adega Velha Restaurant",
             "Fayerweather Yacht Club",
+            "Felix Package Store",
             "Golden Star Caf\u00e9",
             "Monaco's Discount Liquor",
             "Mr Crab",
             "Park City Wines & Liquors",
-            "Pleasant Moments"
+            "Pleasant Moments",
+            "Rite Price Liquor"
         ],
         "Bristol": [
             "Bleachers",
@@ -42,6 +45,7 @@ var jsonObject = {
             "Bristol Wine & Spirits",
             "Crazy Bruce's",
             "Double Tree Hilton",
+            "Edgewood Wine & Spirits",
             "Maple End Package Store",
             "Nick's Package Store",
             "Rt 72 Liquors",
@@ -179,6 +183,7 @@ var jsonObject = {
             "Litch Hills Wine Market"
         ],
         "Manchester": [
+            "Forest Package Store",
             "Total Wine & More"
         ],
         "Mansfield": [
@@ -197,7 +202,8 @@ var jsonObject = {
             "Fairway Liquor Mart",
             "Keeper's",
             "Seaside Wine & Spirits",
-            "Total Wine & More"
+            "Total Wine & More",
+            "Woodmont Package Store"
         ],
         "Monroe": [
             "Glen Ro Spirit Shoppe",
@@ -229,6 +235,7 @@ var jsonObject = {
             "Enoteca Cassanova",
             "Grand Vin",
             "Jack's Bar & Steakhouse",
+            "Kav's Package Store",
             "Lenny & Joes Fishtail",
             "Pacifico",
             "Q Club (Graduate Club)",
@@ -463,6 +470,7 @@ var jsonObject = {
         ],
         "Waterbury": [
             "Empire Wine & Liquor",
+            "Highland Package Store",
             "Nutmeg Fine Wines & Spirits",
             "Palace Theater"
         ],
