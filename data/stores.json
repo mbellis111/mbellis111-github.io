@@ -21,12 +21,16 @@ var jsonObject = {
             "Turnpike Liquors",
             "Wine Merchants"
         ],
+        "Bethel": [
+            "Wine World"
+        ],
         "Bloomfield": [
             "Crystal Wine and Spirits",
             "Liquor Wine Outlet"
         ],
         "Branford": [
             "Branford Wine & Spirits",
+            "Coastal Wine & Spirit",
             "Gabel's Wine Shop"
         ],
         "Bridgeport": [
@@ -55,7 +59,9 @@ var jsonObject = {
             "Brooklyn Spirits"
         ],
         "Cheshire": [
-            "Premier Wine & Spirits"
+            "Cheshire Wine & Spirits",
+            "Premier Wine & Spirits",
+            "Super Wines & Liquors"
         ],
         "Chester": [
             "Chester Bottle Shop",
@@ -125,7 +131,8 @@ var jsonObject = {
             "Essex Wine & Spirits"
         ],
         "Fairfield": [
-            "Stratfield Wine & Liquor"
+            "Stratfield Wine & Liquor",
+            "Villa Wine & Spirits"
         ],
         "Farmington": [
             "Discount Liquor",
@@ -198,6 +205,7 @@ var jsonObject = {
             "Marlborough Wine & Spirits"
         ],
         "Meriden": [
+            "Arthur's Cordial Shoppe",
             "Town & Country Spirits"
         ],
         "Middletown": [
@@ -236,10 +244,12 @@ var jsonObject = {
             "Royal Wine and Spirit"
         ],
         "New Haven": [
+            "Arroyo's Package Store",
             "Chapel West Wine & Liquor",
             "Discount Liquor Of Annex",
             "Enoteca Cassanova",
             "Shell and Bones",
+            "Temple Wine & Liquor",
             "Zacharys Package Store"
         ],
         "New London": [
@@ -334,6 +344,7 @@ var jsonObject = {
             "Liquor Outlet",
             "RK Liquor Store",
             "Southington Wine & Spirits",
+            "The Manhattan",
             "West Side Spirits",
             "Wine Works",
             "Worldwide Wine & Spirits"
@@ -388,6 +399,7 @@ var jsonObject = {
             "Pour Me Wine and Liquor"
         ],
         "Wallingford": [
+            "East Coast Wine & Spirits",
             "Wallingford Wine & Spirit"
         ],
         "Waterbury": [
