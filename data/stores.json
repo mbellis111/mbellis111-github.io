@@ -1,8 +1,5 @@
 var jsonObject = {
     "data": {
-        "Andover": [
-            "Whiskey & Wine World"
-        ],
         "Ashford": [
             "Whitehouse Package Store"
         ],
@@ -25,7 +22,6 @@ var jsonObject = {
             "Wine World"
         ],
         "Bloomfield": [
-            "Crystal Wine and Spirits",
             "Liquor Wine Outlet"
         ],
         "Branford": [
@@ -35,20 +31,16 @@ var jsonObject = {
         ],
         "Bridgeport": [
             "Absorbs Liquor",
-            "Adega Velha Restaurant",
             "Copa Restaurant and Bar",
-            "Dolphin's Cove Marina",
             "Felix Package Store",
             "Park City Wines & Liquors",
             "Rite Price Liquor"
         ],
         "Bristol": [
             "Big Dollar Liquor",
-            "Bristol Liquor Outlet",
             "Burlington Ave Wine & Spirits",
             "Jay's Market",
             "Jerry's Discount Liquors",
-            "Maple End Package Store",
             "Nick's Package Store",
             "Pine Street Package Store",
             "Town & Country Discount Liquor"
@@ -68,25 +60,24 @@ var jsonObject = {
             "Chester Package"
         ],
         "Clinton": [
-            "Chip's Pub III",
+            "Chip's Pub",
             "East Main Street Wine & Liquor",
             "Glenwood Wine & Spirits Outlet"
         ],
         "Colchester": [
             "Big Gary's Colchester Wine",
-            "Cellar On 85 Fine Wine"
+            "Cellar On 85 Fine Wine",
+            "Two Brothers Wine & Spirit"
         ],
         "Coventry": [
             "Coventry Wine & Spirits"
         ],
         "Cromwell": [
+            "Bruce's 19th Hole",
             "Cromwell Square Wine & Liquor",
-            "Liquor World",
+            "Mom & Pop's Discount",
+            "Taphouse 150",
             "Willowbrook Spirit"
-        ],
-        "Darien": [
-            "White Bridge Liquor",
-            "Wine Ports Of Darien"
         ],
         "Dayville": [
             "Lucky's Liquor Locker"
@@ -102,7 +93,8 @@ var jsonObject = {
             "Liquor Cabinet"
         ],
         "East Haddam": [
-            "Four Corners Wine and Spirits"
+            "Four Corners Wine and Spirits",
+            "Swing Bridge Wine and Spirits"
         ],
         "East Hampton": [
             "Center Package Store"
@@ -121,6 +113,7 @@ var jsonObject = {
             "Neil's Fine Wines & Spirits"
         ],
         "Enfield": [
+            "Elm Street Liquors",
             "Enfield Discount Wines",
             "Enfield Liquor & Wine",
             "Enfield Liquor Warehouse",
@@ -131,13 +124,15 @@ var jsonObject = {
             "Essex Wine & Spirits"
         ],
         "Fairfield": [
+            "Edisun 348",
+            "Golf Lounge 18",
             "Stratfield Wine & Liquor",
             "Villa Wine & Spirits"
         ],
         "Farmington": [
             "Discount Liquor",
             "Maximum Beverage",
-            "Wine Cellars"
+            "Wine Cellars 4"
         ],
         "Glastonbury": [
             "Bin 228 Gastropub",
@@ -146,17 +141,19 @@ var jsonObject = {
             "One Stop Spirit Shop"
         ],
         "Granby": [
-            "Liquor World"
+            "Liquor World - Granby"
+        ],
+        "Greenwich": [
+            "A1 Cellars"
         ],
         "Groton": [
-            "Bridge Package Store",
-            "Star Liquors"
+            "Ackley's Package Store",
+            "Bridge Package Store"
         ],
         "Haddam": [
             "Tony's Package Store"
         ],
         "Hamden": [
-            "Mount Carmel Wine",
             "Wine Merchants"
         ],
         "Hartford": [
@@ -215,25 +212,24 @@ var jsonObject = {
             "Westfield Spirit Shoppe"
         ],
         "Milford": [
-            "Liquor Connection",
+            "Fort Trumbull Wines & Liquor",
             "Seaside Wine & Spirits",
             "Total Wine & More",
-            "Wine and Liquor Junction",
-            "Woodmont Package Store"
+            "Wine and Liquor Junction"
         ],
         "Monroe": [
             "Glen Ro Spirit Shoppe",
             "Warehouse Wine & Spirit"
         ],
         "Montville": [
-            "Big Gary's Montville Wine & Spirits"
+            "Big Gary's",
+            "Montville Wine & Spirits"
         ],
         "Moodus": [
             "Moodus Package Store"
         ],
         "Mystic": [
-            "Cask N Keg Package Store",
-            "Windjammer Wine & Spirits"
+            "Cask N Keg Package Store"
         ],
         "New Britain": [
             "Central Wine & Spirits",
@@ -248,16 +244,18 @@ var jsonObject = {
             "Chapel West Wine & Liquor",
             "Discount Liquor Of Annex",
             "Enoteca Cassanova",
+            "Marine Package",
             "Shell and Bones",
             "Temple Wine & Liquor",
             "Zacharys Package Store"
         ],
         "New London": [
             "Ocean Discount Wine and Spirit",
-            "Universal Package"
+            "Universal Package",
+            "Yellow Front Package Store"
         ],
         "Newington": [
-            "Casa Mia on The Hill",
+            "Casa Mia On The Hill",
             "Conn Beverage Mart"
         ],
         "Newtown": [
@@ -270,8 +268,11 @@ var jsonObject = {
             "Thompson Liquor"
         ],
         "Norwalk": [
-            "Al's Warehouse #2",
+            "Al's Warehouse",
             "Total Wine & More"
+        ],
+        "Norwich": [
+            "Occum Package Store"
         ],
         "Old Saybrook": [
             "Old Colony Package",
@@ -288,35 +289,30 @@ var jsonObject = {
             "Liquor Vault Wine & Spirits"
         ],
         "Plantsville": [
-            "South Main Liquors & Wine"
+            "South Main Liquors & Wine",
+            "Super 66 Liquors"
         ],
         "Portland": [
             "Brownstone Bottle Shop"
-        ],
-        "Preston": [
-            "Lu Mac Package Store"
         ],
         "Putnam": [
             "Big Gary's Discount Liquors",
             "Putnam Spirits",
             "Sunny Wine & Spirits"
         ],
-        "Riverside": [
-            "A1 Cellars"
-        ],
         "Rocky Hill": [
-            "Century Package Store",
             "Suburban Liquor"
         ],
         "Seymour": [
-            "Mountain Road Wine & Liquor"
+            "Mountain Road Wine & Liquor",
+            "Woodland Package Store"
         ],
         "Shelton": [
             "Glen Ro Spirit Shoppe",
             "Highland Golf Club",
-            "Huntington Package Store",
             "JD's Wines & Spirits",
             "Kindred Spirits & Wine",
+            "Shelton Wine & Spirits",
             "Super Saver Spirit",
             "The Wine Emporium"
         ],
@@ -336,14 +332,10 @@ var jsonObject = {
             "South Windsor Cordial Shoppe",
             "Town Center Wine & Spirit"
         ],
-        "Southbury": [
-            "Lake Wine & Spirits"
-        ],
         "Southington": [
             "Harvest Liquor Shoppe",
             "Liquor Outlet",
             "RK Liquor Store",
-            "Southington Wine & Spirits",
             "The Manhattan",
             "West Side Spirits",
             "Wine Works",
@@ -384,18 +376,17 @@ var jsonObject = {
             "Village Spirit Shop"
         ],
         "Trumbull": [
-            "Bottom Line Wine & Spirits",
             "Trumbull Liquor Center"
         ],
         "Unionville": [
-            "Bottle Shop Of Unionville",
-            "Liquor Square"
+            "Bottle Shop Of Unionville"
         ],
         "Vernon": [
             "Whiskey & Wine World"
         ],
         "Vernon Rockville": [
             "Discount Wine & Liquor Shop",
+            "Harry's Fine Wine and Liquors",
             "Pour Me Wine and Liquor"
         ],
         "Wallingford": [
@@ -403,11 +394,11 @@ var jsonObject = {
             "Wallingford Wine & Spirit"
         ],
         "Waterbury": [
-            "84 East Wines & Liquor",
-            "Nutmeg Fine Wines & Spirits"
+            "Brass Mill Liquor's",
+            "Colonial Wine & Liquor"
         ],
         "Waterford": [
-            "Mago Point Packy of Waterford"
+            "Mago Point Packy Of Waterford"
         ],
         "Watertown": [
             "Liquor Super Store"
@@ -415,9 +406,10 @@ var jsonObject = {
         "West Hartford": [
             "Cheers Wines & Spirits",
             "Crazy Bruce's",
-            "Total Wine & More",
-            "Warehouse Liquor",
-            "West Side Wine & Spirits"
+            "Total Wine & More"
+        ],
+        "West Haven": [
+            "Mut's Package Store"
         ],
         "Westbrook": [
             "Cindy's Wine & Spirits"
@@ -431,7 +423,7 @@ var jsonObject = {
         ],
         "Willimantic": [
             "Corner Package Store",
-            "Jas Wine & Liquor",
+            "JAS Wine & Liquor",
             "Windham Wine & Spirits"
         ],
         "Willington": [
