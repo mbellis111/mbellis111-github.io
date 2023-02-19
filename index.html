@@ -123,16 +123,21 @@
 	  </div>
     </section>
 	
-	<section class="py-5 bg-image-full" style="background-image: url('images/barrel_blurred.jpg');">
-      <div style="height: 400px;"></div>
+	<section class="py-5">
+	  <div class="bg-image-full" style="background-image: url('images/barrel_blurred.jpg');">
+      <div style="height: 500px;"></div>
     </section>
 	
 	
 	<section class="py-5" id="buy_sec">
       <div class="container">
         <h1 class="header-text">Where To Buy</h1>
-		<div style="text-align: center;font-size: 0.75rem;font-style: italic;">Distributed by Star Distributors</div>
-		<div id="town_stores" class="row my-4" style="text-align: center;">
+		<div style="text-align: center;font-size: 0.75rem;font-style: italic;">Distributed by Star & Horizon</div>
+		<div style="padding-top: 3rem">
+			<iframe src="https://finder.vtinfo.com/finder/web/v2/iframe?custID=N0S&themeVersion=3&theme=bs-simplex&doFocus=0&geolocate=Y" 
+			id="finder" width="100%" height="610" frameborder="0" scrolling="no" allow="geolocation;" >
+			</iframe>
+		<div>
 		</div>
 	  </div>
 	  
@@ -231,74 +236,14 @@
 
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Bellis Bourbon 2022</p>
+        <p class="m-0 text-center text-white">Copyright &copy; Bellis Bourbon 2023</p>
       </div>
     </footer>
 
-    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/jquery/jquery-3.6.3.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 	<script src="vendor/jquery/jquery.cookie.min.js"></script>
 	<script src="js/age-verification.js"></script>
-	<script type="text/javascript" language="javascript" src="data/stores.json"></script>
-
-	
-	<script type="text/javascript">
-	   $(document).ready(function(e) {
-			
-			function toggleList(town) {
-				return function() {
-					$("#" + town + "_arrow").toggleClass('active');
-					$("#" + town + "_list").slideToggle();
-				};
-			}
-				
-	   
-			var storeRoot = $('#town_stores');
-			storeRoot.empty();
-			
-			var data = jsonObject.data;
-			var towns = [];
-			for(var key in data) {
-				towns.push(key);
-			}
-			towns.sort();
-			
-			for(var index in towns) {
-				var town = towns[index];
-				var townId = town.replace(" ", "_");
-				var stores = data[town];
-				stores.sort();
-				
-				var townDiv = $('<div>')
-					.addClass('col-md-4')
-					.appendTo(storeRoot);
-				
-				var townHeader = $('<div>')
-					.addClass('store-lead')
-					.text(town + ", CT")
-					.appendTo(townDiv)
-					.off()
-					.click(toggleList(townId));
-				
-				var arrowToggle = $('<img>')
-				.addClass('toggle-arrow')
-				.attr('src', 'images/arrow.png')
-				.attr("id", townId + "_arrow")
-				.appendTo(townHeader);
-				
-				var storeList = $('<ul/>')
-				.addClass('list-unstyled store-list')
-				.attr("id", townId + "_list")
-				.appendTo(townDiv);
-				
-				$.each(stores, function(i) {
-					var li = $('<li/>')
-						.text(this)
-						.appendTo(storeList);
-				});
-			}
-	   });
-	</script>
 
   </body>
 
