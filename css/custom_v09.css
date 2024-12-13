@@ -71,13 +71,12 @@ body {
 
 .rating-banner-text {
     display: inline-block;
-    background-color: #FFFAF0;
-    font-size: 1rem;
-    border-radius: 10px;
+    font-size: 1.5rem;
     padding: 12px;
-    font-weight: 400;
-    color: #4e3205
+    font-weight: bold;
+    color: #fff;
     text-align: center;
+    background-color: #d7c39f4a;
 }
 
 .rating-link {
